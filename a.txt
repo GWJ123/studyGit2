@@ -2,5 +2,8 @@
 git is good
 git ok
 dev is good
+<<<<<<< HEAD
 hahaha
+=======
+>>>>>>> dev
 rebase...
